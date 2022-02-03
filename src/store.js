@@ -9,19 +9,18 @@ const state = {
     {
       offset: 1,
       factor: 1.75,
-      header: "District 4",
-      image: "/photo-1515036551567-bf1198cccc35.jpeg",
+      header: "What do we do?",
       aspect: 1.51,
-      text: "Two thousand pharmacologists and bio-chemists were subsidized. Six years later it was being produced commercially."
+      text: "Diamonds arrived on blockchain baby! Each DiamondEvolution NFT is digital proof of ownership and its based on identical natural off-chain diamond (original) "
     },
     {
       offset: 2,
       factor: 2.0,
-      header: "Diamond Road",
+      header: "Quality Natural Diamonds",
       image: "/photo-1519608487953-e999c86e7455.jpeg",
       aspect: 1.5,
       text:
-        "The man who comes back through the Door in the Wall will never be quite the same as the man who went out. He will be wiser but less sure, happier but less self-satisfied, humbler in acknowledging his ignorance yet better equipped to understand the relationship of words to things, of systematic reasoning to the unfathomable mystery which it tries, forever vainly, to comprehend."
+        "We only provide natural diamonds and we don't tolerate lab grown. There are all kinds of different diamonds, so each NFT will be unique by shape, size, clarity and carat but cut will always be premium quality. All diamonds are GIA grated with included certificate. Because off-chain diamond is original, original can be claimed ONLY ONCE per NFT. "
     },
     {
       offset: 3,
