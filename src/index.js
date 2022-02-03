@@ -58,13 +58,10 @@ function Content() {
       <Block factor={1} offset={0}>
         <Block factor={1.2}>
           <Text left size={w * 0.15} position={[-w / 3.2, 0.5, -1]} color="#d40749">
-            MOKSHA
+            DiamondEvolution
           </Text>
         </Block>
         <Block factor={1.0}>
-          <Html className="bottom-left" style={{ color: "white" }} position={[-canvasWidth / 2, -canvasHeight / 2, 0]}>
-            It was the year 2076.{mobile ? <br /> : " "}The substance had arrived.
-          </Html>
         </Block>
       </Block>
       <Block factor={1.2} offset={5.7}>
@@ -79,7 +76,7 @@ function Content() {
         </Block>
       ))}
       <Block factor={1.25} offset={8}>
-        <Html style={{ color: "white" }} className="bottom-left" position={[-canvasWidth / 2, -canvasHeight / 2, 0]}>
+        <Html style={{ color: "white" }} className="bottom-left" position={[-canvasWidth / 8, -canvasHeight / 8, 0]}>
           Culture is not your friend.
         </Html>
       </Block>
